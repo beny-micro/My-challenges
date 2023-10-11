@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(220, 220, 220);
+}
+form {
+    text-align: center;
+}
+input {
+    height: 20px;
+    border-color: rgb(147, 147, 147);
+}
+input[class="02"] {
+border-color: rgb(0, 106, 255);
+}
+input[class="03"] {
+    background-color: rgb(255, 204, 0);
+}
+input[class="04"] {
+    background-color: rgb(198, 198, 198)
+}
+input[class="05"] {
+    border-radius: 20px;
+}
+input[class="06"] {
+    border-style: dotted;
+}
+input[class="07"] {
+    background-color: rgb(220, 220, 220);
+}
+input[class="08"] {
+    background-color: rgb(36, 36, 36);
+}
